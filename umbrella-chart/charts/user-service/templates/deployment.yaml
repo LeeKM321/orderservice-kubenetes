@@ -12,7 +12,7 @@ metadata:
 
 
 spec:
-  replicas: 3
+  replicas: {{ .Values.replicaCount }}
   selector:
     matchLabels:
       app: user-service # 이 Deployment가 관리할 pod를 선택하는 기준.
