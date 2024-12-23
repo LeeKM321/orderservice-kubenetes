@@ -13,9 +13,9 @@ dependencies:
   version: 1.0.0
 - name: product-service
   repository: file://charts/product-service
-  version: 1.0.0
+  version: 1.0.1
 - name: gateway-service
   repository: file://charts/gateway-service
   version: 1.0.0
-digest: sha256:67fa321a2b39c87114e9a91f646b310c77b85477904fd1e6c8dd408d640289dd
-generated: "2024-12-23T13:19:51.172043+09:00"
+digest: sha256:2c05242579f8e0ff12dc998947f7d3288d335f29cc0bb14a88ea05a3ad1bca31
+generated: "2024-12-23T19:12:42.15719+09:00"
