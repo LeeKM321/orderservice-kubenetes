@@ -20,7 +20,7 @@ dependencies:
     version: 1.0.0
     repository: file://charts/ordering-service
   - name: product-service
-    version: 1.0.1
+    version: 1.1.0
     repository: file://charts/product-service
   - name: gateway-service
     version: 1.0.0
